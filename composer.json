@@ -24,6 +24,6 @@
   "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
-    "oat-sa/tao-community": "dev-master"
+    "openthinklabs/tao-community": "dev-master"
   }
 }
