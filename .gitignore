@@ -1,9 +1,10 @@
 .project
 composer.lock
-.idea/
+0.idea/
 .buildpath
 .settings/
 .idea/
+install.sh
 filemanager/
 funcAcl/
 generis/

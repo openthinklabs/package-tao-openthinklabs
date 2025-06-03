@@ -1,0 +1,1 @@
+php tao/scripts/taoInstall.php --db_driver=pdo_mysql --db_host=localhost --db_name=tao_core --db_pass=password --db_user=tao --file_path=/opt/webapps/package-tao-openthinklabs-data --timezone="Asia/Jakarta" --url=https://tao.openthinklabs --user_login="username" --user_pass="password" --verbose --operated_by_name="OpenThink Labs" --operated_by_email="dumm@dummy.com" -e taoCe
